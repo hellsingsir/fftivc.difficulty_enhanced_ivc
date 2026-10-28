@@ -1,5 +1,4 @@
 # fftivc.difficulty_enhanced_ivc
-GitHub Repository for FFTIVC: Difficulty Enhanced IVC Edition. Has NO Renames.
 
 FFTIVC: Difficulty Enhanced Mod V1.01 - IVC Edition (NO RENAME)
 
